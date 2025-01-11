@@ -1,5 +1,3 @@
-# Hello World!, I'm Olya, a frontend developer 👋🏼:
-
 ###
 
 <div align="center">
