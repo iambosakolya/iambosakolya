@@ -59,4 +59,5 @@
   <img src="https://cdn.simpleicons.org/jira/0052CC" height="40" alt="jira logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/eslint/4B32C3" height="40" alt="eslint logo"  />
+  
 </div>
