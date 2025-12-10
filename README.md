@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">frontend developer skilled in javascript, typescript, react, and next.js. experienced in building responsive, high-performance web applications with modern tools like webpack and babel. passionate about clean code and continuous learning. proficient with git, postman, and jira.</p>
+<p align="left">frontend developer skilled in javascript, typescript, react, and next.js. experienced in building responsive, high-performance web applications with modern tools. passionate about clean code and continuous learning. proficient with git</p>
 
 ###
 
