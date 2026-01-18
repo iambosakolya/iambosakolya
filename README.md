@@ -10,14 +10,6 @@
   </a>
 </div>
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=iambosakolya.iambosakolya&"  />
-</div>
-
-###
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
