@@ -1,9 +1,4 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />
-</div>
-
 ###
-
 <p align="left">frontend developer skilled in javascript, typescript, react, and next.js. experienced in building responsive, high-performance web applications with modern tools. passionate about clean code and continuous learning. proficient with git</p>
 
 <div align="center">
